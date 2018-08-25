@@ -2,7 +2,7 @@
 
 ### Testing object: Temperature UnitConverter developed by Emersonbrandon0
 
-   Repository:https://github.com/Emersonbrandon0/unitconverter 
+   Repository: https://github.com/Emersonbrandon0/unitconverter 
 
 __Feature:__  
 * Using Scenario Outline of cucumber to reduce the number of scenarioes.  
@@ -12,4 +12,4 @@ __Feature:__
 __Purpose:__ 
 * Exploring Cucumber Ruby and Watir. 
 * comparing productivity with Ruby&Watir and Java&Selenium for self-study.
-#### Also see repository:
+#### Also see repository: https://github.com/HavingLunch/AutomaticTestingCucumberJavaSelenium
